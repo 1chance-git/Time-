@@ -96,3 +96,4 @@ This is open-source. Let’s build something extraordinary together.
 - **Founder:** Chance Johnson
 - **Email:** [chance.johnson@timelineai.com](mailto:chance.johnson@timelineai.com)
 - **Website:** [timelineai.com](http://timelineai.com)
+https://doi.org/10.5281/zenodo.15272505
